@@ -1,0 +1,26 @@
+[
+  {
+    "value": "PROJECT TITLE",
+    "displayValue": "PROJECT TITLE"
+  },
+  {
+    "value": "PROJECT #",
+    "displayValue": "PROJECT #"
+  },
+  {
+    "value": "MANAGER",
+    "displayValue": "MANAGER"
+  },
+  {
+    "value": "START DATE",
+    "displayValue": "START DATE"
+  },
+  {
+    "value": "END DATE",
+    "displayValue": "END DATE"
+  },
+  {
+    "value": "COMPANY",
+    "displayValue": "COMPANY"
+  }
+]
